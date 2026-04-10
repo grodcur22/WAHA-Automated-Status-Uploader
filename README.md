@@ -59,4 +59,4 @@ The script uses environment variables for security and flexibility. You can set 
 This project is not affiliated with WhatsApp or Meta. Use this tool responsibly and in compliance with WhatsApp's Terms of Service to avoid account bans.
 
 ```
-```
+
